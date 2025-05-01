@@ -19,3 +19,4 @@
     Ingrese un numero para calcular el factorial: ^C
     Programa finalizado.
 # Captura de pantalla de los test ejecutados
+![imagen](https://github.com/user-attachments/assets/dfc0473c-10c5-4fc6-bbe0-b58660d37228)
