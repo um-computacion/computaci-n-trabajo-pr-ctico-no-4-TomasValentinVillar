@@ -3,9 +3,8 @@
     tanto de forma iterativa como recursiva. El factorial de un número n (denotado como n!)
     es el producto de todos los enteros positivos desde 1 hasta n.
 # Instrucciones de uso
-    ```python
-    python factorial/factorial.py
-    ```
+    ejecutar en terminal: python factorial/factorial.py
+
     El programa pedirá ingresar un número para calcular su factorial.
     Si el numero es negativo se indicará que es una entrada invalida.
     Se puede finaliza el programa con Ctrl + C
