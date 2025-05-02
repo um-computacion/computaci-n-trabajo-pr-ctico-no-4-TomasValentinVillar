@@ -1,6 +1,6 @@
 import unittest
 
-from flatten import aplanar_lista #irmportar funcion aplanar lista de flatten.py
+from flatten import aplanar_lista #importar funcion aplanar lista de flatten.py
 
 class TestAplanarLista(unittest.TestCase):
 
